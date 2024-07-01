@@ -1,0 +1,11 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #888;
+}
